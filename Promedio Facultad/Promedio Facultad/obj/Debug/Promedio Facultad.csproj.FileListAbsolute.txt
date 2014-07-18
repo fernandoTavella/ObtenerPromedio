@@ -1,0 +1,8 @@
+C:\Users\Fer\Documents\Visual Studio 2008\Projects\Promedio Facultad\Promedio Facultad\bin\Debug\Promedio Facultad.exe
+C:\Users\Fer\Documents\Visual Studio 2008\Projects\Promedio Facultad\Promedio Facultad\bin\Debug\Promedio Facultad.pdb
+C:\Users\Fer\Documents\Visual Studio 2008\Projects\Promedio Facultad\Promedio Facultad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fer\Documents\Visual Studio 2008\Projects\Promedio Facultad\Promedio Facultad\obj\Debug\WindowsFormsApplication1.Promedio.resources
+C:\Users\Fer\Documents\Visual Studio 2008\Projects\Promedio Facultad\Promedio Facultad\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Fer\Documents\Visual Studio 2008\Projects\Promedio Facultad\Promedio Facultad\obj\Debug\Promedio Facultad.csproj.GenerateResource.Cache
+C:\Users\Fer\Documents\Visual Studio 2008\Projects\Promedio Facultad\Promedio Facultad\obj\Debug\Promedio Facultad.exe
+C:\Users\Fer\Documents\Visual Studio 2008\Projects\Promedio Facultad\Promedio Facultad\obj\Debug\Promedio Facultad.pdb
